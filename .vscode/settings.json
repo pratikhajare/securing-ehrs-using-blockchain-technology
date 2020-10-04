@@ -1,0 +1,6 @@
+{
+    "http.proxy": "", 
+    "http.proxyAuthorization": null, 
+    "http.proxyStrictSSL": false,
+    "solidity.compileUsingRemoteVersion": "\"solidity.compileUsingRemoteVersion\" : \"v0.5.16+commit.9c3226ce\""
+}
